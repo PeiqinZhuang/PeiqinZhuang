@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a second year graduate from Shenzhen Institute of Advanced, Chinese Academy of Sciences, advised by Prof.
-<font color="blue>
+<font color="blue">
              <a href="http://mmlab.siat.ac.cn/yuqiao/">Yu Qiao</a>
                                                       </font>
 and Prof.
