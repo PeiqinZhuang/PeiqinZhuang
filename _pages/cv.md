@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in University of Chinese Academy of Science, Advised by Prof.[Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/) and 
+Prof. [Yali Wang](http://english.siat.cas.cn/SI2017/IAIT2017/RC1/CPE_20513/Researchers1/201707/t20170727_181385.html) 2016-present
+* B.S. in Central South University, 2012-2016
 
-Work experience
+Research  experience
 ======
 * Summer 2015: Research Assistant
   * Github University
