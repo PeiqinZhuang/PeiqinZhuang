@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in University of Chinese Academy of Science, Advised by Prof.[Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/) and 
-Prof. [Yali Wang](http://english.siat.cas.cn/SI2017/IAIT2017/RC1/CPE_20513/Researchers1/201707/t20170727_181385.html) 2016-present
+* M.S. in University of Chinese Academy of Science, 2016-present<font color="red">This is some text!</font>
 * B.S. in Central South University, 2012-2016
 
 Research  experience
