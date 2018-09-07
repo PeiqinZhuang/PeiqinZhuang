@@ -17,32 +17,22 @@ Education
 Advisors
 =====
 Prof. <font color="blue">
-  <a href="http://mmlab.siat.ac.cn/yuqiao/>Yu Qiao</a>
+  <a href="http://mmlab.siat.ac.cn/yuqiao/">Yu Qiao</a>
 </font> and 
 Prof. <font color="blue">
   <a href="http://english.siat.cas.cn/SI2017/IAIT2017/RC1/CPE_20513/Researchers1/201707/t20170727_181385.html">Yali Wang</a>
                                                                                                               </font>
+Research interests
+=====
+Cross-modal Analysis, Language Application in Computer Vision, 
+Fine-grained Classification
 
 Research  experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov. 2017-Apr. 2018: Build up a Large-scale Benchmark for Fish Recognition
+* Jul. 2017-Oct. 2017: Research on Vision Robots within Underwater Environment
+* Mar. 2017-May. 2017: Participation in SeaCLEF2017 Competition
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -50,18 +40,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Awards
+====
+* 2018 Excellent Student Prize of University of Chinese Academy of Sciences
+* 2017 Excellent Student Scholarship of Shenzhen Institute of Advanced Technology
+* 2017 Excellent Student Prize of School of Electronic, Electrical and Communication 
+Engineering, University of Chinese Academy of Sciences
+* 2016 Outstanding Graduate of Central South University
+* 2015 Excellent Prize of MathorCup Mathematical Contest in Modeling
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
