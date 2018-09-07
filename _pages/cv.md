@@ -11,8 +11,13 @@ redirect_from:
 
 Education
 ======
-* M.S. in University of Chinese Academy of Science, 2016-present<font color="red">This is some text!</font>
+* M.S. in University of Chinese Academy of Science, 2016-present
 * B.S. in Central South University, 2012-2016
+
+Advisors
+=====
+Prof. <font color="blue">[Yu Qiao](http://mmlab.siat.ac.cn/yuqiao/)</font> and 
+Prof. <font color="blue">[Yali Wang](http://english.siat.cas.cn/SI2017/IAIT2017/RC1/CPE_20513/Researchers1/201707/t20170727_181385.html)</font>
 
 Research  experience
 ======
