@@ -10,8 +10,4 @@ citation: '<b>Peiqin Zhuang</b>, Linjie Xing, Sheng Guo, Yanlin Liu, Yu Qiao. Ma
 Animal Detection and Recognition with Advanced Deep Learning Models. Proc. of Conference
 and Labs of the Evaluation(CLEF), 2017'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
