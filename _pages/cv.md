@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "A"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,6 +22,7 @@ Prof. <font color="blue">
 Prof. <font color="blue">
   <a href="http://english.siat.cas.cn/SI2017/IAIT2017/RC1/CPE_20513/Researchers1/201707/t20170727_181385.html">Yali Wang</a>
                                                                                                               </font>
+                                                                                                              
 Research interests
 =====
 Cross-modal Analysis, Language Application in Computer Vision, 
