@@ -1,7 +1,7 @@
 ---
 title: "Marine Animal Detection and Recognition with Advanced Deep Learing Models"
 collection: publications
-permalink: /publication/Marine Animal Detection and Recognition with Advanced Deep Learing Models
+permalink: '/publication/Marine Animal Detection and Recognition with Advanced Deep Learing Models'
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2017-09-14
 venue: 'CLEF2017'
