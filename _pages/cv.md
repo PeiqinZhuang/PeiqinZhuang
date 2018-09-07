@@ -50,8 +50,8 @@ Engineering, University of Chinese Academy of Sciences
 * 2016 Outstanding Graduate of Central South University
 * 2015 Excellent Prize of MathorCup Mathematical Contest in Modeling
 
-  [More detail can be found](
-      https://github.com/PeiqinZhuang/PeiqinZhuang.github.io/blob/master/files/cv.pdf
-    )
+ <font color='pink'> 
+  <a href="https://github.com/PeiqinZhuang/PeiqinZhuang.github.io/blob/master/files/cv.pdf">More detail can be found</a>
+  </font>
 
 
