@@ -51,7 +51,7 @@ Engineering, University of Chinese Academy of Sciences
 * 2015 Excellent Prize of MathorCup Mathematical Contest in Modeling
 
  <font color="navy"> 
-  <a href="https://PeiqinZhuang.github.io/files/cv.pdf">More detail can be found</a>
+  <a href="https://PeiqinZhuang.github.io/files/cv.pdf">More details can be found</a>
   </font>
 
 
