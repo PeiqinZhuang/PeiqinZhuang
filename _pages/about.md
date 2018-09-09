@@ -12,4 +12,4 @@ I am a second year graduate from <font color="blue"> <a href="http://www.siat.ac
 Before this, I received my bachelor degree from <font color="blue"> <a href="http://www.csu.edu.cn/"> Central South University</a> </font> in 2016. My premier research interests include cross-modal analysis, language application in computer vision and fine-grained classification.
 
 # Recent News
-- Jul. 1, 2018 A paper was accepted by 26th ACM Multimedia Conference(ACM MM)
+- Jul. 1, 2018 One paper was accepted by 26th ACM Multimedia Conference(ACM MM)
