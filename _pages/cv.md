@@ -30,7 +30,7 @@ Fine-grained Classification
 
 Research  experience
 ======
-* Nov. 2017-Apr. 2018: Build up a Large-scale Benchmark for Fish Recognition
+* Nov. 2017-Apr. 2018: Build a Large scale Benchmark for Fish Recognition
 * Jul. 2017-Oct. 2017: Research on Vision Robots within Underwater Environment
 * Mar. 2017-May. 2017: Participation in SeaCLEF2017 Competition
 
