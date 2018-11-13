@@ -43,6 +43,7 @@ Publications
   
 Awards
 ====
+* 2018 National Scholarship
 * 2018 Excellent Student Prize of University of Chinese Academy of Sciences
 * 2017 Excellent Student Scholarship of Shenzhen Institute of Advanced Technology
 * 2017 Excellent Student Prize of School of Electronic, Electrical and Communication 
